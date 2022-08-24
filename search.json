@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-ec-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-ec-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_ec_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-ec-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "zarr-2004.html",
+    "href": "zarr-2004.html",
+    "title": "nbdev-ec-test",
+    "section": "",
+    "text": "import zarr # version 2.4.0\nzarr.__version__\n# https://zarr.readthedocs.io/en/v2.4.0/\n\n'2.4.0'\n\n\n\nimport fsspec # version 0.6.1\nfsspec.__version__\n\n'0.6.1'\n\n\n\n# !nbdev_help\n\n\nimport dask # version 2.8.1\ndask.__version__\n\n'2.8.1'\n\n\n\n# import getpass\n\n\n# abusing getpass to ubfiscate a directory location\n# file_path = getpass.getpass(prompt='Enter full path to zarr file without quotes')\n\n\n# tt_l7 = xarray.open_zarr(file_path) # ModuleNotFoundError: No module named 'dask' if dask not installed in env\n\n\n# tt_l7\n\n\n# tt_l1 = xarray.open_zarr(\"/data/geomet/dev/afssymo/zarr-test/rdps_tt_l1.zarr\")\n\n\n# tt_l1"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()"
+  }
+]
